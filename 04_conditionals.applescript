@@ -1,5 +1,4 @@
 on run
-	
 	# Simple example
 	set x to 5
 	if x = 6 then
@@ -9,6 +8,4 @@ on run
 	else
 		display dialog "Value of X has not been identified!"
 	end if
-	
-	
 end run
